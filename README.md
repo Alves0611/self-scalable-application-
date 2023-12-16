@@ -1,9 +1,3 @@
-<p align="center">
-  <img alt="" src="diagram.png" width="100%">
-</p>
-
-
-
 # AutoScalable Terraform - Infrastructure as Code (IaC)
 
 AutoScalable Terraform project, an Infrastructure as Code (IaC) implementation to create a fully autoscalable application in the cloud. This project uses Terraform and provisions essential resources including EC2, ALB, ASG, Security Group, RDS, VPC, subnets, Internet Gateway and routing tables.
